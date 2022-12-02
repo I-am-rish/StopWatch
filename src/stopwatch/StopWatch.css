@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+}
+.StopWatch{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+}
+
+h1 span{
+    color: blue;
+}
+
+#copyRight{
+    
+    position: absolute;
+    /* color: #f9004d; */
+    bottom: 40px;
+    font-size: 14px;
+    /* top: 400px; */
+
+}

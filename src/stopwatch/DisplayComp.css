@@ -1,0 +1,20 @@
+.DisplayComp{
+    display: flex;
+    flex-direction: row;
+    font-size: 50px;
+    color: rgb(248, 14, 14);
+
+}
+
+span{
+    /* padding: 20px; */
+    /* background-color: rgb(240, 245, 243); */
+}
+
+div  p{
+    color: rgb(98, 98, 180);
+    margin-top: -10px;
+    font-size: 20px;
+    /* padding-left: 10px; */
+    padding: 0 10px ;
+}

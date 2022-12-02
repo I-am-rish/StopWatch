@@ -1,0 +1,26 @@
+.BtnComp div{
+   display: flex;
+   gap: 20px;
+
+}
+
+
+button{
+    font-family: 'Josefin sans', sans-serif;
+    background-color: rgb(124, 46, 197);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    transition: transform .2s;
+    cursor: pointer;
+}
+
+button:hover{
+    transform: scale(1.1);
+}
+
+.btn:hover{
+    box-shadow: 0 2px 5px rgb(221, 210, 210);
+}
