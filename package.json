@@ -1,7 +1,7 @@
 {
   "name": "stopwatch",
   "version": "0.1.0",
-  "homepage": "http://i-am-rish.github.io/StopWatch",
+  "homepage": "https://i-am-rish.github.io/StopWatch",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
